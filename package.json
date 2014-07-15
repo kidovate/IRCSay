@@ -1,0 +1,13 @@
+{
+  "name": "saybot",
+  "version": "0.0.1",
+  "description": "Say random stuff in IRC channels.",
+  "main": "cow.js",
+  "author": "Christian Stewart (Quantum)",
+  "license": "Apache 2",
+  "dependencies": {
+    "cowsay": "^1.0.3",
+    "irc": "^0.3.7",
+    "yosay": "^0.3.0"
+  }
+}
